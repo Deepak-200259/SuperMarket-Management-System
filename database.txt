@@ -1,0 +1,7 @@
+ 1 Juice 70 2
+ 2 Milk 30 0
+ 3 Kurkure 10 0
+ 4 Chips 20 0
+ 6 Butter 30 2
+ 5 Jam 140 2
+ 8 Pussy 5000 1
